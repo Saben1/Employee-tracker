@@ -16,6 +16,11 @@ Employee Tracker is a command-line application that allows you to manage departm
 - Remove an employee: Terminate an employee's employment and remove them from the system.
 - Calculate department budgets: Get the total salary budget for a specific department.
 
+## Demo Video
+
+[Link to Demo Video](https://github.com/Saben1/Employee-tracker/issues/1#issue-1758355939)
+
+
 ## Technologies Used
 
 - Language: JavaScript
